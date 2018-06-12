@@ -1,0 +1,16 @@
+{
+  "name": "electron-key",
+  "version": "1.0.0",
+  "description": "A way to simplify key listening in Electron.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwpuppire/electron-key"
+  },
+  "author": "MWPuppire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwpuppire/electron-key/issues"
+  },
+  "homepage": "https://github.com/mwpuppire/electron-key#readme"
+}
